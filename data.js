@@ -60,6 +60,12 @@ var APP_DATA = {
           "pitch": -0.005874421105993122,
           "title": "Food Trucks",
           "text": "All the noms go here"
+        },
+        {
+          "yaw": 2.8419131413572787,
+          "pitch": 0.033209940546036876,
+          "title": "Outdoor Stage",
+          "text": "The outdoor stage will be here."
         }
       ]
     },
