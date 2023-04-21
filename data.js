@@ -108,7 +108,7 @@ var APP_DATA = {
           "yaw": -2.253607220927627,
           "pitch": 0.19784667464726624,
           "rotation": 0.7853981633974483,
-          "target": "3-north-building-1f-volunteer-room---escalators"
+          "target": "3-north-building-1f-collab"
         },
         {
           "yaw": 3.0394243602404547,
@@ -171,8 +171,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-north-building-1f-volunteer-room---escalators",
-      "name": "North Building 1F Volunteer Room - Escalators",
+      "id": "3-north-building-1f-collab",
+      "name": "North Building 1F Collab",
       "levels": [
         {
           "tileSize": 256,
@@ -272,7 +272,7 @@ var APP_DATA = {
           "yaw": 0.2695478056046259,
           "pitch": 0.6397565532141378,
           "rotation": 0,
-          "target": "3-north-building-1f-volunteer-room---escalators"
+          "target": "3-north-building-1f-collab"
         },
         {
           "yaw": 2.98197717751629,
@@ -1402,7 +1402,7 @@ var APP_DATA = {
           "yaw": 2.8054087461149475,
           "pitch": 0.21722187403665671,
           "rotation": 0.7853981633974483,
-          "target": "3-north-building-1f-volunteer-room---escalators"
+          "target": "3-north-building-1f-collab"
         }
       ],
       "infoHotspots": [
